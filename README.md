@@ -21,7 +21,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://llacoondog.github.io/DrawingTrouble/">
-        <img width="100%" alt="반반무마니 - Drawing Trouble" src="https://opengraph.githubassets.com/1/llacoondog/DrawingTrouble">
+        <img width="100%" alt="반반무마니 - Drawing Trouble" src="https://raw.githubusercontent.com/llacoondog/llacoondog/main/assets/thumb-drawingtrouble.webp">
       </a>
       <h3>🎨 반반무마니</h3>
       <p>직접 그린 그림으로 펼치는 3D 피지컬 파티게임</p>
@@ -30,7 +30,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://llacoondog.github.io/hochirichi/">
-        <img width="100%" alt="호치리치 - HochiRichi" src="https://opengraph.githubassets.com/1/llacoondog/hochirichi">
+        <img width="100%" alt="호치리치 - HochiRichi" src="https://raw.githubusercontent.com/llacoondog/llacoondog/main/assets/thumb-hochirichi.webp">
       </a>
       <h3>🏁 호치리치</h3>
       <p>협력과 경쟁이 만나는 3D 멀티플레이 파티게임</p>
@@ -50,7 +50,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://llacoondog.github.io/PromptCarefully/">
-        <img width="100%" alt="Prompt Carefully" src="https://opengraph.githubassets.com/1/llacoondog/PromptCarefully">
+        <img width="100%" alt="Prompt Carefully" src="https://raw.githubusercontent.com/llacoondog/llacoondog/main/assets/thumb-promptcarefully.webp">
       </a>
       <h3>🧊 프롬프트 케어풀리</h3>
       <p>복셀 3D 기반 AI 파티 멀티플레이 게임</p>
