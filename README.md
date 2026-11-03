@@ -17,9 +17,9 @@
 
 ## 🕹️ PLAY NOW
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="100%" align="center" valign="top">
       <a href="https://llacoondog.github.io/DrawingTrouble/">
         <img width="100%" alt="반반무마니 - Drawing Trouble" src="https://raw.githubusercontent.com/llacoondog/llacoondog/main/assets/thumb-drawingtrouble.webp">
       </a>
@@ -28,7 +28,9 @@
       <a href="https://llacoondog.github.io/DrawingTrouble/"><img alt="PLAY NOW" src="https://img.shields.io/badge/PLAY-NOW-A5F58C?style=for-the-badge&labelColor=222B37"></a>
       <br><sub><a href="https://github.com/llacoondog/DrawingTrouble">SOURCE CODE</a></sub>
     </td>
-    <td width="50%" align="center" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" align="center" valign="top">
       <a href="https://llacoondog.github.io/hochirichi/">
         <img width="100%" alt="호치리치 - HochiRichi" src="https://raw.githubusercontent.com/llacoondog/llacoondog/main/assets/thumb-hochirichi.webp">
       </a>
@@ -39,7 +41,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="100%" align="center" valign="top">
       <a href="https://llacoondog.github.io/WinterSquirrel_Web/">
         <img width="100%" alt="겨울다람쥐 게임 화면" src="https://github.com/user-attachments/assets/c41e8d55-4334-4fb9-a5ee-646a6021492e">
       </a>
@@ -48,7 +50,9 @@
       <a href="https://llacoondog.github.io/WinterSquirrel_Web/"><img alt="PLAY NOW" src="https://img.shields.io/badge/PLAY-NOW-A5F58C?style=for-the-badge&labelColor=222B37"></a>
       <br><sub><a href="https://github.com/llacoondog/WinterSquirrel_Web">SOURCE CODE</a></sub>
     </td>
-    <td width="50%" align="center" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" align="center" valign="top">
       <a href="https://llacoondog.github.io/PromptCarefully/">
         <img width="100%" alt="Prompt Carefully" src="https://raw.githubusercontent.com/llacoondog/llacoondog/main/assets/thumb-promptcarefully.webp">
       </a>
@@ -59,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="100%" align="center" valign="top">
       <a href="https://llacoondog.github.io/Tralalero_Tralala_Adventure/">
         <img width="100%" alt="트랄랄레로 트랄랄라의 모험 게임 화면" src="https://github.com/user-attachments/assets/16b5c162-bc18-4d8d-b42e-9d06ba236d8d">
       </a>
@@ -68,7 +72,9 @@
       <a href="https://llacoondog.github.io/Tralalero_Tralala_Adventure/"><img alt="PLAY NOW" src="https://img.shields.io/badge/PLAY-NOW-A5F58C?style=for-the-badge&labelColor=222B37"></a>
       <br><sub><a href="https://github.com/llacoondog/Tralalero_Tralala_Adventure">SOURCE CODE</a></sub>
     </td>
-    <td width="50%" align="center" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" align="center" valign="top">
       <a href="https://llacoondog.github.io/TungTungTung-Sort-Hur/">
         <img width="100%" alt="퉁 퉁 퉁 소트-후르 게임 화면" src="https://github.com/user-attachments/assets/70c705e4-51ac-4975-81cd-f15d934cc697">
       </a>
