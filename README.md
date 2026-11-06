@@ -29,12 +29,12 @@
       <br><sub><a href="https://github.com/llacoondog/DrawingTrouble">SOURCE CODE</a></sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://llacoondog.github.io/hochirichi/">
+      <a href="https://hochirichi.pages.dev/">
         <img width="100%" alt="호치리치 - HochiRichi" src="https://raw.githubusercontent.com/llacoondog/llacoondog/main/assets/thumb-hochirichi.webp">
       </a>
       <h3>🏁 호치리치</h3>
       <p>협력과 경쟁이 만나는 3D 멀티플레이 파티게임</p>
-      <a href="https://llacoondog.github.io/hochirichi/"><img alt="PLAY NOW" src="https://img.shields.io/badge/PLAY-NOW-A5F58C?style=for-the-badge&labelColor=222B37"></a>
+      <a href="https://hochirichi.pages.dev/"><img alt="PLAY NOW" src="https://img.shields.io/badge/PLAY-NOW-A5F58C?style=for-the-badge&labelColor=222B37"></a>
       <br><sub><a href="https://github.com/llacoondog/hochirichi">SOURCE CODE</a></sub>
     </td>
   </tr>
